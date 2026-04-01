@@ -66,5 +66,6 @@ s3://your-iceberg-demo-bucket/athena-results/
 ---
 
 ## Author
+Sneha Meshram
 
 Your Name
